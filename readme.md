@@ -86,7 +86,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kambains226/kambains226/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
