@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Kameron Bains</h1>
-<h2 align="left">I'm a second-year Software Engineering student at Northampton University with a strong passion for learning and exploring new ideas. I particularly enjoy working with Python and thrive on trying out innovative projects and technologies. I'm always eager to expand my knowledge and grow as a developer!</h2>
+<h2 align="left">I'm a Final Year Software Engineering student at Northampton University with a strong passion for learning and exploring new ideas. I particularly enjoy working with Python and thrive on trying out innovative projects and technologies. I'm always eager to expand my knowledge and grow as a developer!</h2>
 
 ###
 
